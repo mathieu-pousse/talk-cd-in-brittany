@@ -1,0 +1,76 @@
+
+
+.container {
+    margin-top: 50px;
+    height: 128px;
+    display: flex;
+    align-items: center;
+}
+
+
+.developper {
+    height: 100%;
+    width: 128px;
+    background: url(dev.svg);
+    background-size: 128px 128px;
+}
+
+.shop {
+    height: 100%;
+    width: 128px;
+    background: url(shop.svg);
+    background-size: 128px 128px;
+}
+
+.developper-svg {
+    stroke: deeppink;
+}
+
+.arrow {
+    width: 64px;
+    height: 64px;
+    background: url(arrow.svg);
+    background-size: 64px 64px;
+}
+
+.arrow-fast {
+    width:64px;
+    height: 64px;
+    background: url(arrow-fast.svg);
+    background-size: 64px 64px;
+}
+
+.k {
+    height: 100%;
+    width: 128px;
+    background: url(k.svg);
+    background-size: 128px 128px;
+}
+
+.git {
+    height: 100%;
+    width: 128px;
+    background: url(git.svg);
+    background-size: 128px 128px;
+}
+
+.docker {
+    height: 100%;
+    width: 128px;
+    background: url(docker.svg);
+    background-size: 128px 128px;
+}
+
+.jenkins {
+    height: 100%;
+    width: 128px;
+    background: url(jenkins.svg);
+    background-size: 128px 128px;
+}
+
+.deliver {
+    height: 100%;
+    width: 128px;
+    background: url(deliver.svg);
+    background-size: 128px 128px;
+}
